@@ -2457,6 +2457,10 @@ figcaption {
   display: flex;
 }
 
+.highlight {
+  background-color: aquamarine;
+}
+
 .main-logo {
   width: 180px;
   height: auto;
